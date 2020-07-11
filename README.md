@@ -1,7 +1,7 @@
-### Hi there 👋, I'm Sparsh Srivastava 🧑‍💻.
+## Hi there 👋, I'm Sparsh Srivastava 🧑‍💻.
 
-###### About me
-I'm a hacker 👨🏻‍💻, believer 😃 and dreamer 💭 
+### About me
+I'm a hacker 💻, believer 😃 and dreamer 💭 
 
 
 I believe in clean coding and slick design. Building astonishing apps is my passion, hearing compliments is my pleasure. Users demand cool products to use instead of sloppy ones, so I work with that purpose.
@@ -13,18 +13,18 @@ Since I am an avid believer of phrase "Learn something new everyday!", I keep ed
 
 * 🤖 Google Associate Android Developer [@Cerification](https://www.credential.net/3r0ntt9e?key=212070138435373eb014f23bfa8d6f2b8d6e89cb583320e8034a99975e399413)
 
-* 👨‍💼 Founder [@SmokeTreesDigital](https://smoketrees.dev/) 
+* 💼 Founder [@SmokeTreesDigital](https://smoketrees.dev/) 
 
 * 📲 Former Android Engineer [@FamPay](https://fampay.in/)
 
-* 👨‍💻 Former Android Developer [@SelectDine](https://selectdine.com/)
-
-* Non-Tech time goes in to Pet Animals 🐶, Music 🎧, Food 🍜, Travel 🌏 ....
+* 💻 Former Android Developer [@SelectDine](https://selectdine.com/)
 
 * 💬 Ask me about anything Android
 
+* Non-Tech time goes in to Pet Animals 🐶, Music 🎧, Food 🍜, Travel 🌏 ....
 
 
+### Reach me at
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sparshsri/)
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/sparsh_sri)
