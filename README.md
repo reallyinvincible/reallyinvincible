@@ -19,7 +19,7 @@ Since I am an avid believer of phrase "Learn something new everyday!", I keep ed
 
 * 💻 Former Android Developer [@SelectDine](https://selectdine.com/)
 
-* 💬 Ask me about anything Android
+* 💬 Talk to me about anything Android
 
 * Non-Tech time goes in to Pet Animals 🐶, Music 🎧, Food 🍜, Travel 🌏 ....
 
