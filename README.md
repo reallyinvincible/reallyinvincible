@@ -28,3 +28,4 @@ Since I am an avid believer of phrase "Learn something new everyday!", I keep ed
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sparshsri/)
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/sparsh_sri)
+[![Fiverr](https://img.shields.io/badge/Fiverr-lightcoral.svg?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/sparshsri)
