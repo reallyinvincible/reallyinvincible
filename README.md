@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Sparsh Srivastava 🧑‍💻.
+## Hi there 👋, I'm Sparsh Srivastava 👦.
 
 ### About me
 I'm a hacker 💻, believer 😃 and dreamer 💭 
